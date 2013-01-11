@@ -1,0 +1,143 @@
+1>  CL command line: C:\Marmalade\6.1\s3e\bin\CL.exe @C:\Users\April_SY\AppData\Local\Temp\3e98728faf984ce7bad33f00e6898d53.rsp
+1>  Temp file contents:
+1>  /c /Ic:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/libjpeg_6b/h /Ic:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/zlib_1.2.4/h /Ic:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/libpng_1.2.34/h /Ic:/marmalade/6.1/modules/iwutil/h /Ic:/marmalade/6.1/modules/iwgeom/h /Ic:/marmalade/6.1/modules/iwresmanager/h /Ic:/marmalade/6.1/modules/iwgl/h /Ic:/marmalade/6.1/modules/iwgx/h /Ic:/marmalade/6.1/s3e/h /Ic:/marmalade/6.1/s3e/h/ext /Ic:/marmalade/6.1/s3e/h/std /Ic:/marmalade/6.1/s3e/h/std/c++ /Ic:/marmalade/6.1/s3e/h/ext_legacy /Ic:/marmalade/6.1/s3e/h/legacy /I. /Z7 /nologo /W3 /WX- /O2 /Oi /Oy- /X /Gm /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release_FPSDemo0_1.0_vc10_gcc_mips\\" /Fd"Release_FPSDemo0_1.0_vc10_gcc_mips\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "c:/Users/April_SY/Desktop/Test/2013_1_19/FPSDemo0-1.0.0_Marmalade.s3dxproj/main.cpp" /S3Eproject /J /Fe"s3e-custom-tool='c:/marmalade/6.1/tools/gcc/mips/android_mips_windows/bin/mipsel-linux-android-gcc.exe' tooltype=gcc_mips_compiler -funsigned-char -fno-strict-aliasing -fno-stack-protector -fno-short-enums -fshort-wchar -Wall -fmessage-length=0 -Wno-unused -Wno-parentheses -save-temps -fPIC -EL -mips1 -mabi=32 -Wno-switch -fvisibility=hidden -nostdinc -fPIC --cppflag=-Wno-reorder --cppflag=-fvisibility-inlines-hidden --cppflag=-fno-exceptions --cppflag=-frtti --cppflag=-nostdinc++ -fomit-frame-pointer -O3" /S3Everbose  /FD  /FI"c:\Users\April_SY\Desktop\Test\2013_1_19\FPSDemo0-1.0.0_Marmalade.s3dxproj\build_fpsdemo0-1.0_vc10\temp_defines_release.h" /D__S3E_CL_WRAPPER
+1>  
+1>  cmd: C:\Marmalade\6.1\s3e\python\python.exe C:\Marmalade\6.1\s3e/bin/compiler_wrapper.py C:\Marmalade\6.1\s3e\bin\CL.exe @C:\Users\April_SY\AppData\Local\Temp\3e98728faf984ce7bad33f00e6898d53.rsp
+1>  compiler_wrapper: distcc not found in path
+1>  MIPS Compiling(GCC) c:\Users\April_SY\Desktop\Test\2013_1_19\FPSDemo0-1.0.0_Marmalade.s3dxproj\main.cpp ...
+1>  compiler_wrapper: c:/marmalade/6.1/tools/gcc/mips/android_mips_windows/bin/mipsel-linux-android-gcc.exe command line (using via file mipsel-linux-android-gcc_cmd_line_MainThread.txt):
+1>  compiler_wrapper: -c
+1>  compiler_wrapper: c:/Users/April_SY/Desktop/Test/2013_1_19/FPSDemo0-1.0.0_Marmalade.s3dxproj/main.cpp
+1>  compiler_wrapper: -o
+1>  compiler_wrapper: Release_FPSDemo0_1.0_vc10_gcc_mips//main.obj
+1>  compiler_wrapper: -Ic:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/libjpeg_6b/h
+1>  compiler_wrapper: -Ic:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/zlib_1.2.4/h
+1>  compiler_wrapper: -Ic:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/libpng_1.2.34/h
+1>  compiler_wrapper: -Ic:/marmalade/6.1/modules/iwutil/h
+1>  compiler_wrapper: -Ic:/marmalade/6.1/modules/iwgeom/h
+1>  compiler_wrapper: -Ic:/marmalade/6.1/modules/iwresmanager/h
+1>  compiler_wrapper: -Ic:/marmalade/6.1/modules/iwgl/h
+1>  compiler_wrapper: -Ic:/marmalade/6.1/modules/iwgx/h
+1>  compiler_wrapper: -Ic:/marmalade/6.1/s3e/h
+1>  compiler_wrapper: -Ic:/marmalade/6.1/s3e/h/ext
+1>  compiler_wrapper: -Ic:/marmalade/6.1/s3e/h/std
+1>  compiler_wrapper: -Ic:/marmalade/6.1/s3e/h/std/c++
+1>  compiler_wrapper: -Ic:/marmalade/6.1/s3e/h/ext_legacy
+1>  compiler_wrapper: -Ic:/marmalade/6.1/s3e/h/legacy
+1>  compiler_wrapper: -I.
+1>  compiler_wrapper: -funsigned-char
+1>  compiler_wrapper: -fno-strict-aliasing
+1>  compiler_wrapper: -fno-stack-protector
+1>  compiler_wrapper: -fno-short-enums
+1>  compiler_wrapper: -fshort-wchar
+1>  compiler_wrapper: -Wall
+1>  compiler_wrapper: -fmessage-length=0
+1>  compiler_wrapper: -Wno-unused
+1>  compiler_wrapper: -Wno-parentheses
+1>  compiler_wrapper: -save-temps
+1>  compiler_wrapper: -fPIC
+1>  compiler_wrapper: -EL
+1>  compiler_wrapper: -mips1
+1>  compiler_wrapper: -mabi=32
+1>  compiler_wrapper: -Wno-switch
+1>  compiler_wrapper: -fvisibility=hidden
+1>  compiler_wrapper: -nostdinc
+1>  compiler_wrapper: -fPIC
+1>  compiler_wrapper: -fomit-frame-pointer
+1>  compiler_wrapper: -O3
+1>  compiler_wrapper: -D__S3E_CL_WRAPPER
+1>  compiler_wrapper: -include
+1>  compiler_wrapper: c:/Users/April_SY/Desktop/Test/2013_1_19/FPSDemo0-1.0.0_Marmalade.s3dxproj/build_fpsdemo0-1.0_vc10/temp_defines_release.h
+1>  compiler_wrapper: -Wno-reorder
+1>  compiler_wrapper: -fvisibility-inlines-hidden
+1>  compiler_wrapper: -fno-exceptions
+1>  compiler_wrapper: -frtti
+1>  compiler_wrapper: -nostdinc++
+1>  compiler_wrapper: Executing:
+1>  compiler_wrapper: [u'"c:/marmalade/6.1/tools/gcc/mips/android_mips_windows/bin/mipsel-linux-android-gcc.exe"', u'"@mipsel-linux-android-gcc_cmd_line_MainThread.txt"']
+1>  compiler_wrapper: copying deps from Release_FPSDemo0_1.0_vc10_gcc_mips\CL-python-mipsel-linux-android-gcc-cc1plus.read.1.tlog to Release_FPSDemo0_1.0_vc10_gcc_mips\CL.read.1.tlog
+1>  compiler_wrapper: couldn't find deps Release_FPSDemo0_1.0_vc10_gcc_mips\CL-python-mipsel-linux-android-gcc-cc1.read.1.tlog
+1>  LINK command line: C:\Marmalade\6.1\s3e\bin\link.exe /ERRORREPORT:PROMPT @C:\Users\April_SY\AppData\Local\Temp\8c6617558f2f41b1a1fa70da10ab24b0.rsp
+1>  Temp file contents:
+1>  /OUT:"Release_FPSDemo0_1.0_vc10_gcc_mips\FPSDemo0-1.0.0" /INCREMENTAL:NO /NOLOGO /LIBPATH:"c:/users/april_sy/desktop/test/2013_1_19/fpsdemo0-1.0.0_marmalade.s3dxproj/shiva/lib/mips/linux" /LIBPATH:c:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/libjpeg_6b/lib/mips/linux /LIBPATH:c:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/zlib_1.2.4/lib/mips/linux /LIBPATH:c:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/libpng_1.2.34/lib/mips/linux /LIBPATH:c:/marmalade/6.1/modules/iwutil/lib/mips/linux /LIBPATH:c:/marmalade/6.1/modules/iwgeom/lib/mips/linux /LIBPATH:c:/marmalade/6.1/modules/iwresmanager/lib/mips/linux /LIBPATH:c:/marmalade/6.1/modules/iwgx/atitools /LIBPATH:c:/marmalade/6.1/modules/iwgx/lib/mips/linux /LIBPATH:c:/marmalade/6.1/modules/iwgl/lib/mips/linux /LIBPATH:c:/marmalade/6.1/s3e/lib/mips/linux /NODEFAULTLIB:libcmt /MANIFEST:NO /PDB:"c:\Users\April_SY\Desktop\Test\2013_1_19\FPSDemo0-1.0.0_Marmalade.s3dxproj\build_fpsdemo0-1.0_vc10\Release_FPSDemo0_1.0_vc10_gcc_mips\FPSDemo0-1.0.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Release_FPSDemo0_1.0_vc10_gcc_mips\FPSDemo0-1.0.lib" /MACHINE:X86 /DLL Release_FPSDemo0_1.0_vc10_gcc_mips\main.obj  /include:_IwMain /include:_raise /include:_DllEntryPoint@12/COMMENT:"s3e-custom-tool='c:/marmalade/6.1/tools/gcc/mips/android_mips_windows/bin/mipsel-linux-android-g++.exe' tooltype=gcc_mips_linker -Wl,--as-needed --sysroot=c:/marmalade/6.1/s3e\..\tools\gcc\mips\android_mips_windows/android-14/arch-mips -Wl,--no-undefined -shared -EL -mips1 -mabi=32 -static-libgcc -nodefaultlibs -Wl,--entry=_IwMain -frtti -Wl,-Tmips_linker_script -Wl,-init -Wl,iwcrt_mips_init -Wl,-fini -Wl,iwcrt_mips_fini -Wl,--no-undefined -Wl,-u_IwAppEntry -Wl,-u_IwAppVersionMajor -Wl,-u_IwAppVersionMinor -Wl,--entry=_IwAppEntry -shared -Wl,-Map='Release_FPSDemo0_1.0_vc10_gcc_mips\/FPSDemo0-1.0.map' -Wl,--start-group -Wl,--whole-archive -lshiva -liwutil -liwgeom -liwresmanager -liwgx -Wl,--no-whole-archive -ljpeg -lz -lpng -liwgl -ls3e_cpp -ls3e -ls3e_api -lstdc++ -lc -lm -lgcc -Wl,--end-group --plink:-i" /S3Everbose 
+1>  cmd: C:\Marmalade\6.1\s3e\python\python.exe C:\Marmalade\6.1\s3e/bin/compiler_wrapper.py C:\Marmalade\6.1\s3e\bin\link.exe /ERRORREPORT:PROMPT @C:\Users\April_SY\AppData\Local\Temp\8c6617558f2f41b1a1fa70da10ab24b0.rsp
+1>  MIPS Linking(GCC) ...
+1>  compiler_wrapper: c:/marmalade/6.1/tools/gcc/mips/android_mips_windows/bin/mipsel-linux-android-g++.exe command line (using via file mipsel-linux-android-g++_cmd_line_MainThread.txt):
+1>  compiler_wrapper: -o
+1>  compiler_wrapper: Release_FPSDemo0_1.0_vc10_gcc_mips/FPSDemo0-1.0.so
+1>  compiler_wrapper: Release_FPSDemo0_1.0_vc10_gcc_mips/main.obj
+1>  compiler_wrapper: -Wl,--as-needed
+1>  compiler_wrapper: --sysroot=c:/marmalade/6.1/s3e/../tools/gcc/mips/android_mips_windows/android-14/arch-mips
+1>  compiler_wrapper: -Wl,--no-undefined
+1>  compiler_wrapper: -shared
+1>  compiler_wrapper: -EL
+1>  compiler_wrapper: -mips1
+1>  compiler_wrapper: -mabi=32
+1>  compiler_wrapper: -static-libgcc
+1>  compiler_wrapper: -nodefaultlibs
+1>  compiler_wrapper: -Wl,--entry=_IwMain
+1>  compiler_wrapper: -frtti
+1>  compiler_wrapper: -Wl,-Tmips_linker_script
+1>  compiler_wrapper: -Wl,-init
+1>  compiler_wrapper: -Wl,iwcrt_mips_init
+1>  compiler_wrapper: -Wl,-fini
+1>  compiler_wrapper: -Wl,iwcrt_mips_fini
+1>  compiler_wrapper: -Wl,--no-undefined
+1>  compiler_wrapper: -Wl,-u_IwAppEntry
+1>  compiler_wrapper: -Wl,-u_IwAppVersionMajor
+1>  compiler_wrapper: -Wl,-u_IwAppVersionMinor
+1>  compiler_wrapper: -Wl,--entry=_IwAppEntry
+1>  compiler_wrapper: -shared
+1>  compiler_wrapper: -Wl,-Map="Release_FPSDemo0_1.0_vc10_gcc_mips//FPSDemo0-1.0.map"
+1>  compiler_wrapper: -Wl,--start-group
+1>  compiler_wrapper: -Wl,--whole-archive
+1>  compiler_wrapper: -lshiva
+1>  compiler_wrapper: -liwutil
+1>  compiler_wrapper: -liwgeom
+1>  compiler_wrapper: -liwresmanager
+1>  compiler_wrapper: -liwgx
+1>  compiler_wrapper: -Wl,--no-whole-archive
+1>  compiler_wrapper: -ljpeg
+1>  compiler_wrapper: -lz
+1>  compiler_wrapper: -lpng
+1>  compiler_wrapper: -liwgl
+1>  compiler_wrapper: -ls3e_cpp
+1>  compiler_wrapper: -ls3e
+1>  compiler_wrapper: -ls3e_api
+1>  compiler_wrapper: -lstdc++
+1>  compiler_wrapper: -lc
+1>  compiler_wrapper: -lm
+1>  compiler_wrapper: -lgcc
+1>  compiler_wrapper: -Wl,--end-group
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/users/april_sy/desktop/test/2013_1_19/fpsdemo0-1.0.0_marmalade.s3dxproj/shiva/lib/mips/linux
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/libjpeg_6b/lib/mips/linux
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/zlib_1.2.4/lib/mips/linux
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/users/april_sy/appdata/roaming/marmalade/packages/6.1.2/libpng_1.2.34/lib/mips/linux
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/marmalade/6.1/modules/iwutil/lib/mips/linux
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/marmalade/6.1/modules/iwgeom/lib/mips/linux
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/marmalade/6.1/modules/iwresmanager/lib/mips/linux
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/marmalade/6.1/modules/iwgx/atitools
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/marmalade/6.1/modules/iwgx/lib/mips/linux
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/marmalade/6.1/modules/iwgl/lib/mips/linux
+1>  compiler_wrapper: -L
+1>  compiler_wrapper: c:/marmalade/6.1/s3e/lib/mips/linux
+1>  compiler_wrapper: Executing:
+1>  compiler_wrapper: [u'"c:/marmalade/6.1/tools/gcc/mips/android_mips_windows/bin/mipsel-linux-android-g++.exe"', u'"@mipsel-linux-android-g++_cmd_line_MainThread.txt"']
+1>  c:/marmalade/6.1/tools/gcc/mips/android_mips_windows/bin/../lib/gcc/mipsel-linux-android/4.4.3/../../../../mipsel-linux-android/bin/ld.exe: cannot find -lshiva
+1>  
+1>  
+1>  collect2: ld returned 1 exit status
+1>  
+1>  
+1>  python returned non-zero: 1
+1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(275,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1).
